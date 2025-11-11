@@ -1,32 +1,17 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌸 Siti Sahrani — Data & Mathematics Portfolio
 
+Welcome to my personal portfolio website!  
+This site showcases my journey as a **Mathematics graduate** passionate about **Data Analytics, Visualization, and Problem-Solving**.  
+Built using HTML, CSS, and a touch of JavaScript — this portfolio highlights my academic background, technical skills, and selected projects.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+🔗 **Live Website:** [https://sitisahrani.github.io](https://sitisahrani.github.io)  
+📂 **Repository:** This repository contains all the source code for my portfolio website.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🪄 Credits
+- Template: [HTML5 UP - Massively](https://html5up.net/massively)  
+- Icons: [Font Awesome](https://fontawesome.com/)  
+- Deployed with: [GitHub Pages](https://pages.github.com/)
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+⭐ *“Turning data into insight, one visualization at a time.”*  
