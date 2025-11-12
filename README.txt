@@ -10,9 +10,10 @@ Built using HTML, CSS, and a touch of JavaScript — this portfolio highlights m
 ## 🪄 Credits
 - Template: [HTML5 UP - Massively](https://html5up.net/massively)  
 - Icons: [Font Awesome](https://fontawesome.com/)  
-- Deployed with: [GitHub Pages](https://pages.github.com/)
+- Deployed with: [GitHub Pages](https://SitiSahrani.github.io/)
 
 ---
 
 ⭐ *“Turning data into insight, one visualization at a time.”*  
+
 
