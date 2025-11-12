@@ -1,19 +1,18 @@
-# 🌸 Siti Sahrani — Data & Mathematics Portfolio
+# Siti Sahrani — Portfolio Website
 
-Welcome to my personal portfolio website!  
-This site showcases my journey as a **Mathematics graduate** passionate about **Data Analytics, Visualization, and Problem-Solving**.  
-Built using HTML, CSS, and a touch of JavaScript — this portfolio highlights my academic background, technical skills, and selected projects.
+Personal portfolio of **Siti Sahrani**, Mathematics graduate passionate about **Data Analytics, Visualization, and Problem-Solving**.  
+Built using **HTML, CSS, JavaScript** and deployed via **GitHub Pages**.
 
-🔗 **Live Website:** [https://sitisahrani.github.io]  
-📂 **Repository:** This repository contains all the source code for my portfolio website.
+🌐 **Live Demo:** [https://sitisahrani.github.io](https://sitisahrani.github.io)
 
-## 🪄 Credits
-- Template: [HTML5 UP - Massively](https://html5up.net/massively)  
-- Icons: [Font Awesome](https://fontawesome.com/)  
-- Deployed with: [GitHub Pages](https://SitiSahrani.github.io/)
+## Features
+- About Me & Skills  
+- Projects (Power BI dashboards, Python/C++ visualizations)  
+- Contact & GitHub links
 
----
+## Tech Stack
+HTML | CSS | JavaScript | Power BI | Python | GitHub Pages
 
-⭐ *“Turning data into insight, one visualization at a time.”*  
+⭐ *“Turning data into insight, one visualization at a time.”*
 
 
